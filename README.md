@@ -15,8 +15,6 @@ Com esta API, será possível aos usuários criar baralhos, gerenciar coleções
 | `GET`  | `/cards`           | Listar todas as cartas disponíveis     | 200, 400, 500       |
 | `GET`  | `/cards/{id}`      | Obter detalhes de uma carta específica | 200, 404, 500       |
 | `GET`  | `/cards/search`    | Buscar cartas por nome, tipo, cor, etc.| 200, 400, 500       |
-
-### 🗃️ Sets (Coleções)
 | Método | Rota          | Descrição                      | Status Codes     |
 |--------|---------------|--------------------------------|------------------|
 | `GET`  | `/sets`       | Listar todas as coleções de MTG| 200, 500         |
