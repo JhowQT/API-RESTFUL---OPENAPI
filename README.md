@@ -1,3 +1,5 @@
 # API-RESTFUL---OPENAPI
 
-Manipular APIs é essencial no mundo da programação, para que programas sejam mais dinâmicos. Utilizando a API do Magic: The Gathering (MTG). Este programa vai permitir criar baralhos, coleções, verificar estatísticas, em suma, manipular as cartas da API do MTG para conferir liberdade aos usuários para usarem métodos (get) e terem retornos concisos com o requerimento. 
+Manipular APIs é uma prática essencial na programação moderna, pois permite que aplicações sejam mais dinâmicas e interativas. Esta documentação apresenta uma API RESTful voltada para o universo de Magic: The Gathering (MTG), com foco na criação e gerenciamento de baralhos personalizados.
+
+Com esta API, será possível aos usuários criar decks, gerenciar coleções, consultar estatísticas e explorar funcionalidades como busca de cartas, exportação de decks, e interações com a comunidade. Tudo isso seguindo o padrão OpenAPI, garantindo clareza, padronização e facilidade de integração.
