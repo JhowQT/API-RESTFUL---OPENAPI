@@ -123,13 +123,13 @@ Com esta API, será possível aos usuários criar baralhos, gerenciar coleções
 ```json
 // LoginRequestDTO
 {
-  "email": "fastfire@example.com",
-  "password": "SuperSecure123!"
+  "email": "jhon.q.torrez@gmail.com",
+  "password": "123456789"
 }
 
 // LoginResponseDTO
 {
-  "token": "eyJhbGciOi...etc...",
+  "token": "abcdefghijklmnop",
   "user": {
     "id": 4,
     "username": "FastFire",
