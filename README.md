@@ -48,6 +48,5 @@ Com esta API, será possível aos usuários criar baralhos, gerenciar coleções
   "colors": ["Red"],
   "imageUrl": "https://example.com/cards/shivan-dragon.jpg"
 }
-```
 
 
