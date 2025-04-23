@@ -32,7 +32,7 @@ Com esta API, será possível aos usuários criar baralhos, gerenciar coleções
 
 ## DTOs e Modelos de Dados
 
-###  1. CardDTO
+### 1. CardDTO
 ```json
 {
   "id": 101,
@@ -47,5 +47,34 @@ Com esta API, será possível aos usuários criar baralhos, gerenciar coleções
   "colors": ["Red"],
   "imageUrl": "https://example.com/cards/shivan-dragon.jpg"
 }
+```
+
+### 2. DeckDTO
+```json
+```
+
+### 3. DeckCreateDTO
+```json
+```
+
+### 4. UserDTO
+```json
+```
+
+### 5. UserRegisterDTO
+```json
+```
+
+### 6. LoginRequestDTO & LoginResponseDTO
+```json
+```
+
+### 7. TournamentDTO (novo e original!)
+```json
+```
+
+### 8. ErrorResponseDTO
+```json
+```
 
 
