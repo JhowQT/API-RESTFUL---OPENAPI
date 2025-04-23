@@ -132,8 +132,8 @@ Com esta API, será possível aos usuários criar baralhos, gerenciar coleções
   "token": "abcdefghijklmnop",
   "user": {
     "id": 4,
-    "username": "FastFire",
-    "avatarUrl": "https://example.com/users/avatars/fastfire.jpg"
+    "username": "Medal",
+    "avatarUrl": "https://example.com/users/avatars/Medal.jpg"
   },
   "expiresAt": "2025-04-23T18:00:00Z"
 }
