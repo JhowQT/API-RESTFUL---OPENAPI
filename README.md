@@ -33,7 +33,6 @@ Com esta API, será possível aos usuários criar baralhos, gerenciar coleções
 ## DTOs e Modelos de Dados
 
 ###  1. CardDTO
-
 ```json
 {
   "id": 101,
