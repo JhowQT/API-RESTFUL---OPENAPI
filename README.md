@@ -34,8 +34,6 @@ Com esta API, será possível aos usuários criar baralhos, gerenciar coleções
 
 ###  1. CardDTO
 ```markdown
-```json
-```
 {
   "id": 101,
   "name": "Shivan Dragon",
