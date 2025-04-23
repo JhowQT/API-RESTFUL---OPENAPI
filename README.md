@@ -6,7 +6,7 @@ Manipular APIs é uma prática essencial na programação moderna, pois permite 
 Com esta API, será possível aos usuários criar baralhos, gerenciar coleções, consultar estatísticas e explorar funcionalidades como busca de cartas, exportação de baralhos, e interações com a comunidade. Tudo isso seguindo o padrão OpenAPI, garantindo clareza, padronização e facilidade de integração.
 
 ## Rotas da API
-Método | Rota | Descrição | Status Codes
+|Método | Rota | Descrição | Status Codes
 GET | /cards | Listar todas as cartas disponíveis | 200, 400, 500
 GET | /cards/{id} | Obter detalhes de uma carta específica | 200, 404, 500
 GET | /cards/search | Buscar cartas por nome, tipo, cor, etc. | 200, 400, 500
