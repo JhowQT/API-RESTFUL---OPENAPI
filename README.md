@@ -33,7 +33,8 @@ Com esta API, será possível aos usuários criar baralhos, gerenciar coleções
 ## DTOs e Modelos de Dados
 
 ###  1. CardDTO
-```{
+```
+{
   "id": 101,
   "name": "Shivan Dragon",
   "manaCost": "{4}{R}{R}",
