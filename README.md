@@ -29,3 +29,22 @@ Com esta API, será possível aos usuários criar baralhos, gerenciar coleções
 | POST    | /tournaments/{id}/join   | Participar de um torneio               | 200, 401, 404, 500  |
 | POST    | /auth/register           | Registrar novo usuário                 | 201, 400, 409, 500  |
 | POST    | /auth/login              | Fazer login e obter token de acesso    | 200, 400, 401, 500  |
+
+## DTOs e Modelos de Dados
+
+###  1. CardDTO
+{
+  "id": 101,
+  "name": "Shivan Dragon",
+  "manaCost": "{4}{R}{R}",
+  "type": "Creature — Dragon",
+  "rarity": "Rare",
+  "set": "M21",
+  "power": "5",
+  "toughness": "5",
+  "text": "Flying. {R}: Shivan Dragon gets +1/+0 until end of turn.",
+  "colors": ["Red"],
+  "imageUrl": "https://example.com/cards/shivan-dragon.jpg"
+}
+
+
