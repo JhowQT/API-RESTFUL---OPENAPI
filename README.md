@@ -33,9 +33,11 @@ Com esta API, será possível aos usuários criar baralhos, gerenciar coleções
 ## DTOs e Modelos de Dados
 
 ###  1. CardDTO
-
+```markdown
+```json
+```
 {
-  **"id"**: 101,
+  "id": 101,
   "name": "Shivan Dragon",
   "manaCost": "{4}{R}{R}",
   "type": "Creature — Dragon",
@@ -46,29 +48,5 @@ Com esta API, será possível aos usuários criar baralhos, gerenciar coleções
   "text": "Flying. {R}: Shivan Dragon gets +1/+0 until end of turn.",
   "colors": ["Red"],
   "imageUrl": "https://example.com/cards/shivan-dragon.jpg"
-}
-
-
-
-### Alternativa com Destaques em Negrito/Itálico
-```markdown
-```json
-{
-  **"id"**: 101,
-  *"name"*: "Shivan Dragon",
-  **"manaCost"**: "{4}{R}{R}",
-  *"type"*: "Creature — Dragon",
-  **"rarity"**: "Rare",
-  *"set"*: "M21",
-  **"stats"**: {
-    "power": "5",
-    "toughness": "5"
-  },
-  *"abilities"*: [
-    "Flying",
-    "{R}: Shivan Dragon gets +1/+0 until end of turn"
-  ],
-  **"colors"**: ["Red"],
-  *"imageUrl"*: "https://example.com/cards/shivan-dragon.jpg"
 }
 
