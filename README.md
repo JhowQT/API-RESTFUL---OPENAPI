@@ -165,4 +165,5 @@ Com esta API, será possível aos usuários criar baralhos, gerenciar coleções
 }
 ```
 
-
+## Detalhando todas as rotas.
+Segue em anexo no file .yaml a especificação do detalhamento das rotas com as demias especificações.
